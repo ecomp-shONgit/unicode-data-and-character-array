@@ -9,8 +9,7 @@ On.
 Off.
 ```
 
-
-The input is taken from the folder containing a download of the Unicode Character Lists of the website
+The input is taken from the folder "htmlfromunicodeorg" containing a download of the Unicode character lists of the website
 
 http://www.unicode.org/charts/normalization
 
