@@ -4,7 +4,7 @@
 
 import sys, string, time, codecs, os
 
-# 2012, eAqua Dissimination Project, Prof. Charlotte Schubert Alte Geschichte Leipzig
+# 2012, eAqua Dissemination Project, Prof. Charlotte Schubert Alte Geschichte Leipzig
 # Source of NFD (!): http://www.unicode.org/charts/normalization/, see folder "htmlfromunicodeorg"
 # Purpose: program builds a cvs style list ";;" seperated to save the unicode normalization data and character codes
 # CSV style: "unicodenameofcombined letter";;"unicodenumbercombined";;"unicodeletter";;"NFDunicodeletternumbers"
